@@ -1,2 +1,2 @@
-# 21th-program
-This is my 21th program of c++
+# 21st-program
+This is my 21st program of c++
